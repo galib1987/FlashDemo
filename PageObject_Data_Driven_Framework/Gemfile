@@ -6,7 +6,7 @@ gem 'selenium-webdriver'
 gem 'watir-webdriver'
 gem "chromedriver-helper"
 gem 'require_all'
-gem 'activesupport', '4.1.8'
+#gem 'activesupport', '4.1.8'
 gem 'rake'
 gem 'simplecov'
 gem 'simplecov-rcov'
@@ -21,7 +21,7 @@ gem 'rubyzip'
 #gem 'activerecord'
 gem 'nokogiri'
 gem 'allure-cucumber'
-gem 'headless'
+#gem 'headless'
 
 #gem 'sqlite3'
 
