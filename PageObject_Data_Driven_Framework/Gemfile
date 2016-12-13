@@ -11,14 +11,14 @@ gem 'rake'
 gem 'simplecov'
 gem 'simplecov-rcov'
 gem 'rautomation'
-gem 'pretty_face'
+#gem 'pretty_face'
 
 # gem to connect to saucelabs and also dynamically change browser parameters
 gem 'saucelabs'
 
 gem 'rubyXL'
 gem 'rubyzip'
-gem 'activerecord'
+#gem 'activerecord'
 gem 'nokogiri'
 gem 'allure-cucumber'
 gem 'headless'
